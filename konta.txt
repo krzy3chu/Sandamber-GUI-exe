@@ -1,0 +1,44 @@
+0
+Admin
+Admin
+630010000000
+100000
+admin
+0
+123456789
+Miasto, ul.Ulica 0
+2000-01-01
+...
+1
+Adam
+Ma³ysz
+630010002502
+126501
+1234
+3000
+546124321
+Zakopane, ul.skoczna 1
+1977-12-03
+...
+2
+Andrzej
+Duda
+630010008298
+112767
+pis
+105
+112
+Warszawa, ul.wiejska 2
+1972-05-16
+...
+3
+Krzysztof
+Witkowski
+630010004112
+119297
+xD
+1000000
+665792550
+Luboñ, ul.Zielona 14
+2001-09-29
+...
