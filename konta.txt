@@ -12,33 +12,33 @@ Miasto, ul.Ulica 0
 1
 Adam
 Ma³ysz
-630010002502
-126501
+630010008528
+132593
 1234
-3000
-546124321
-Zakopane, ul.skoczna 1
-1977-12-03
+10000
+654234129
+Wis³a, ul.skoczna 1
+1777-12-03
 ...
 2
-Andrzej
-Duda
-630010008298
-112767
-pis
-105
-112
-Warszawa, ul.wiejska 2
-1972-05-16
+Mariusz
+Pudzianowski
+630010009024
+127950
+1234
+20
+567092135
+Warszawa, ul.zielona 45
+1977-02-07
 ...
 3
-Krzysztof
-Witkowski
-630010004112
-119297
-xD
-1000000
-665792550
-Luboñ, ul.Zielona 14
-2001-09-29
+Robert
+Kubica
+630010009328
+111744
+1234
+5000
+657091234
+Kraków, ul.F 1
+1984-12-07
 ...
