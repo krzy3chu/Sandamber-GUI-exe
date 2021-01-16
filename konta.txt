@@ -7,7 +7,7 @@ admin
 0
 123456789
 Miasto, ul.Ulica 0
-2000-12-12
+2000-01-01
 ...
 1
 Adam
@@ -18,7 +18,7 @@ Ma³ysz
 3000
 546124321
 Zakopane, ul.skoczna 1
-2000-12-12
+1977-12-03
 ...
 2
 Andrzej
@@ -29,7 +29,7 @@ pis
 105
 112
 Warszawa, ul.wiejska 2
-2000-12-12
+1972-05-16
 ...
 3
 Krzysztof
@@ -40,5 +40,5 @@ xD
 1000000
 665792550
 Luboñ, ul.Zielona 14
-2000-12-12
+2001-09-29
 ...
